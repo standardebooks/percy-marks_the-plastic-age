@@ -6,4 +6,10 @@
 			<reason>dialog from the same speaker spans multiple paragraph elements</reason>
 		</ignore>
 	</file>
+	<file path="chapter-12.xhtml">
+		<ignore>
+			<code>t-021</code>
+			<reason>"19 in" does not mean 19 inches in this case</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
