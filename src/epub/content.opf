@@ -33,9 +33,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100002</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">This is the story of Hugh Carver, a student at Sanford College.</dc:description>
+		<dc:description id="description">This novel tells the story of Hugh Carver’s experience as an undergraduate student at Sanford College, a fictional, upscale, liberal arts school in Jazz Age New England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This is the story of Hugh Carver, a student at Sanford College. It was the second best selling novel the year it was released. It was banned in Boston and was the basis of a theatrical motion picture.&lt;/p&gt;
+			&lt;p&gt;This novel tells the story of Hugh Carver’s experience as an undergraduate student at Sanford College, a fictional, upscale, liberal arts school in Jazz Age New England.&lt;/p&gt;
+			&lt;p&gt;It was the second best-selling novel in the year it was published and inspired production of two motion pictures, one the next year and a second three years later.&lt;/p&gt;
+			&lt;p&gt;The book was banned in Boston and its author was discharged from from his teaching position the next year.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16532</dc:source>
@@ -49,10 +51,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Percy_Marks</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80070306</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Thomas Eakins</dc:contributor>
+		<meta property="file-as" refines="#artist">Eakins, Thomas</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Eakins</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n80061185</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Scott G. Sims</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sims, Scott G.</meta>
