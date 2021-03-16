@@ -16,12 +16,6 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"],
-[epub|type~="z3998:song"],
-[epub|type~="z3998:verse"]{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	padding-left: 1em;
