@@ -6,22 +6,6 @@ footer{
 	text-align: right;
 }
 
-.indent05{
-	margin-left: 0.5em;
-}
-
-.indent15{
-	margin-left: 1.5em;
-}
-
-.indent25{
-	margin-left: 2.5em;
-}
-
-.indent55{
-	margin-left: 5.5em;
-}
-
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
@@ -36,6 +20,36 @@ footer{
 [epub|type~="z3998:song"],
 [epub|type~="z3998:verse"]{
 	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+p span.i3{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+
+p span.i4{
+	padding-left: 5em;
+	text-indent: -1em;
 }
 
 /* All dedications */
