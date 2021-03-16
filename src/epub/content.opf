@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/percy-marks/the-plastic-age</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-16T20:30:32Z</dc:date>
+		<meta property="dcterms:modified">2021-03-16T20:30:32Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,17 +33,16 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100002</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">This novel tells the story of Hugh Carver’s experience as an undergraduate student at Sanford College, a fictional, upscale, liberal arts school in Jazz Age New England.</dc:description>
+		<dc:description id="description">A student at an upscale liberal arts university lives day to day in Jazz Age New England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This novel tells the story of Hugh Carver’s experience as an undergraduate student at Sanford College, a fictional, upscale, liberal arts school in Jazz Age New England.&lt;/p&gt;
-			&lt;p&gt;It was the second best-selling novel in the year it was published and inspired production of two motion pictures, one the next year and a second three years later.&lt;/p&gt;
-			&lt;p&gt;The book was banned in Boston and its author was discharged from from his teaching position the next year.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Plastic Age&lt;/i&gt; is the story of Hugh Carver’s experience as an undergraduate student at Sanford College, a fictional, upscale, liberal arts school, in Jazz Age New England. The book covers topics of university life that had previously gotten little exposure in mainstream society: hazing, drinking, smoking, and even sex. &lt;a href="https://standardebooks.org/ebooks/percy-marks"&gt;Marks&lt;/a&gt; had been an English instructor at various New England educational institutions before writing &lt;i&gt;The Plastic Age&lt;/i&gt;; he no doubt drew much from his observations of student life, so much so that the book was banned in Boston and Marks was discharged from his teaching position at Brown the next year.&lt;/p&gt;
+			&lt;p&gt;The novel was the second best-selling novel in 1924, the year it was published, and inspired the production of two motion pictures.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16532</dc:source>
 		<dc:source>https://archive.org/details/plasticage00mark</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">74923</meta>
+		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Plastic_Age</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/percy-marks_the-plastic-age</meta>
 		<dc:creator id="author">Percy Marks</dc:creator>
@@ -72,6 +71,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
