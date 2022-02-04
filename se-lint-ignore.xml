@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-23.xhtml">
+	<file path="chapter-11.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>dialog from the same speaker spans multiple paragraph elements</reason>
+			<code>t-008</code>
+			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-12.xhtml">
 		<ignore>
 			<code>t-021</code>
-			<reason>"19 in" does not mean 19 inches in this case</reason>
+			<reason>"19 in" does not mean 19 inches in this case.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-23.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from the same speaker spans multiple paragraph elements.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
