@@ -6,12 +6,6 @@
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-12.xhtml">
-		<ignore>
-			<code>t-021</code>
-			<reason>"19 in" does not mean 19 inches in this case.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-23.xhtml">
 		<ignore>
 			<code>t-003</code>
