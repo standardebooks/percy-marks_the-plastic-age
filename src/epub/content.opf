@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100002</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A student at an upscale liberal arts college navigates challenges, pitfalls, disillusionment, and the possibilities of his undergraduate experience in Jazz Age New England.</dc:abstract>
+		<meta property="schema:abstract">A student at an upscale liberal arts college navigates challenges, pitfalls, disillusionment, and the possibilities of his undergraduate experience in Jazz Age New England.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Plastic Age&lt;/i&gt; can be read as an exposé on the moral failings of undergraduates in Jazz Age New England, as described through the four-year experience of a young man at the fictional Sanford College. Students enroll at Sanford to “acquire culture,” and do so at an age when they are “plastic” in the sense that they are changeable and meant to be transformed by the experience.&lt;/p&gt;
 			&lt;p&gt;But, not all of the lessons of a college education are in the curriculum. To a student reader of the 1920s, &lt;a href="https://standardebooks.org/ebooks/percy-marks"&gt;Marks’&lt;/a&gt; novel would have looked more like a moral tale, critique, and guide to navigating the challenges, pitfalls, and possibilities of higher education. Marks was an English instructor at Brown University at the time of publication but also had experience teaching at MIT and Dartmouth from which to draw his descriptions of campus life.&lt;/p&gt;
