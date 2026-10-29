@@ -60,6 +60,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Thomas Eakins</dc:contributor>
 		<meta property="file-as" refines="#artist">Eakins, Thomas</meta>
+		<meta property="schema:alternateName" refines="#artist">Thomas Cowperthwait Eakins</meta>
 		<link href="https://en.wikipedia.org/wiki/Thomas_Eakins" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80061185.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -81,7 +82,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
-		<link href="http://www.robinwhittleton.com/" refines="#producer-2" rel="schema:url"/>
+		<link href="https://www.robinwhittleton.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
